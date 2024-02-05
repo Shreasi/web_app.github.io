@@ -121,7 +121,7 @@ const Desktop = () => {
         brands. 
         <iframe src="https://giphy.com/embed/mIvCfCG6xk1d2AmQSJ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kintermedia-media-kinter-mIvCfCG6xk1d2AmQSJ">via GIPHY</a></p>
       </div>
-      <img className="desktop-child" alt="" src="/vector-1.svg" />
+      <img className="desktop-child" alt="" src="/Vector 1.png" />
       <div className="layer-1-parent">
         <img className="layer-1-icon" alt="" src="/layer-1.svg" />
         <img className="layer-1-icon1" alt="" src="/layer-11.svg" />
@@ -129,13 +129,24 @@ const Desktop = () => {
         <b className="lets-unite-for">{`Let's unite for innovation `}</b>
         <div className="sliding-text-container">
           <p className="sliding-text">Rewriting the norms of corporate communication.</p>
+          {/* <img
+          className="psd226-1-icon"
+          alt=""
+          src="/Selling point.png"
+        /> */}
           
         </div>
         <img
           className="psd226-1-icon"
           alt=""
-          src="/23126555-199-psd226-1@2x.png"
+          src="/Selling point.png"
         />
+
+        {/* <img
+          className="psd226-1-icon"
+          alt=""
+          src="/23126555-199-psd226-1@2x.png"
+        /> */}
        
 
 
