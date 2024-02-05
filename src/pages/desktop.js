@@ -136,17 +136,17 @@ const Desktop = () => {
         /> */}
           
         </div>
-        <img
-          className="psd226-1-icon"
-          alt=""
-          src="/Selling point.png"
-        />
-
         {/* <img
           className="psd226-1-icon"
           alt=""
-          src="/23126555-199-psd226-1@2x.png"
+          src="/Selling point.png"
         /> */}
+
+        <img
+          className="psd226-1-icon"
+          alt=""
+          src="/23126555-199-psd226-1@2x.png"
+        />
        
 
 
