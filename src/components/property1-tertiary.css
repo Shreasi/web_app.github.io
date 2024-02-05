@@ -1,0 +1,25 @@
+.album-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button {
+  position: relative;
+  font-weight: 500;
+}
+.property-1tertiary {
+  border-radius: 99px;
+  border: 1px solid var(--color-gray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

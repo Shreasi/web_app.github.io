@@ -1,0 +1,42 @@
+.title,
+.title1 {
+  position: absolute;
+  height: 54.33%;
+  width: 98.72%;
+  line-height: 110%;
+  display: inline-block;
+}
+.title {
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  background: linear-gradient(244.91deg, #27daa4, #57f2cc 47.87%, #4596fb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: fadeInOut 3s ease infinite;
+}
+@keyframes fadeInOut {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.title1 {
+  top: 45.67%;
+  left: 1.28%;
+  font-size: var(--font-size-29xl);
+}
+.component-2 {
+  position: absolute;
+  top: 194px;
+  left: 212px;
+  width: 935px;
+  height: 508px;
+  text-align: left;
+  font-size: var(--font-size-181xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
